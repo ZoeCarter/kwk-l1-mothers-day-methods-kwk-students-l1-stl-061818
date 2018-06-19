@@ -3,8 +3,12 @@
  #puts "Happy #{time_of_day}, #{name}!"
 #end
 
-mothers_day("mothers day", "Mom")
+#mothers_day("mothers day", "Mom")
 
-def
+def mothers_day(time_of_day, name)
+  puts "Happy #{time_of_day}, #{name}!"
+end
+
+mothers_day("mothers_day", "Beyonce")
   
 
